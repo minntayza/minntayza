@@ -14,6 +14,7 @@ I am a fourth-year student at the University of Information Technology (UIT) in 
 
 ```bash
 npx minntayza
+```
 
 const minnTayza = {
   name: "Minn Tayza",
@@ -54,7 +55,7 @@ const minnTayza = {
   currentFocus: "Advancing MLOps skills, experimenting with agent pipelines, and mastering Japanese (JLPT N3) 🇯🇵",
   funFact: "Most network architecture weights calculation bugs can be resolved by changing 0.7 to 0.6."
 };
-```
+
 <img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)" width="60"> <em><b>I love exploring new ideas in AI</b> so feel free to check out my open-source projects below! 😊</em>
 
 ---
