@@ -1,213 +1,59 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">
+  <a href="https://github.com/minntayza/Awesome-CV" title="AwesomeCV Documentation">
+    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
+  </a>
+  <br />
+  Awesome CV — Minn Tayza Edition
+</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<p align="center">
+  A customized LaTeX template for creating outstanding Machine Learning, MLOps, and Software Engineering applications.
+</p>
 
-### 📫 Like to meet me?
+<div align="center">
+  <a href="https://github.com/minntayza/Awesome-CV/actions/workflows/main.yml">
+    <img alt="GitHub Actions" src="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml/badge.svg" />
+  </a>
+  <a href="https://github.com/minntayza">
+    <img alt="Developer Profile" src="https://img.shields.io/badge/developer-minntayza-blue.svg" />
+  </a>
+</div>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<br />
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+## What is Awesome CV?
 
-👇 Hit in your console or terminal to connect with me.
+**Awesome CV** is a clean, semantic LaTeX template for a **CV (Curriculum Vitae)**, **Résumé**, or **Cover Letter**. This fork is maintained and adapted to highlight technical milestones, complex engineering projects, and research backgrounds in Artificial Intelligence and Machine Learning.
+
+
+## Featured Use Cases
+
+This template is configured to easily structure sections relevant to modern AI/ML development:
+* **Core Architectures:** Highlight specialized implementations like intelligent mental stress detection models or autonomous agent workflows.
+* **Technical Internships:** Gracefully format roles centered around model training, deployment pipelines, and MLOps engineering.
+* **Academic Milestones:** Built-in semantic environments to showcase University of Information Technology research, course achievements, and technical certifications.
+
+
+## Preview
+
+#### Résumé
+
+| Page. 1 | Page. 2 |
+|:---:|:---:|
+| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://github.com/minntayza)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://github.com/minntayza) |
+
+
+## Quick Start
+
+You can compile and build your CV directly via the command line or containerize the build process using Docker.
+
+#### Requirements
+
+A full TeX distribution is assumed (TeX Live is highly recommended). Alternatively, you can use Docker to bypass local dependencies completely.
+
+#### Usage
+
+At your terminal, execute:
 
 ```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
-  ],
-
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C357%20hrs%2026%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-506-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.70%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 391.0 kB Used in GitHub's Storage 
- > 
-> 🏆 695 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-🌆 Daytime                4239 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌃 Evening                4725 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  1849 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Tuesday                  1844 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                1733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 1499 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Friday                   1435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 1865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Sunday                   2854 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-JSON                     15 mins             ████████████░░░░░░░░░░░░░   49.32 % 
-TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-.env file                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-
-🔥 Editors: 
-WebStorm                 30 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-
-
-
-
- Last Updated on 03/06/2026 01:40:28 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+xelatex minntayza-cv.tex
