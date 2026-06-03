@@ -1,59 +1,80 @@
-<h1 align="center">
-  <a href="https://github.com/minntayza/Awesome-CV" title="AwesomeCV Documentation">
-    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
-  </a>
-  <br />
-  Awesome CV — Minn Tayza Edition
-</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> မင်္ဂလာပါ (Mingalaba) 🙏🏻, I'm Minn Tayza! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Intern at <a href="#">Dinger</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="center">
-  A customized LaTeX template for creating outstanding Machine Learning, MLOps, and Software Engineering applications.
-</p>
+[![Github: minntayza](https://img.shields.io/badge/-minntayza-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/minntayza)](https://github.com/minntayza)
+![GitHub followers](https://img.shields.io/github/followers/minntayza?label=Follow&style=social)
 
-<div align="center">
-  <a href="https://github.com/minntayza/Awesome-CV/actions/workflows/main.yml">
-    <img alt="GitHub Actions" src="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml/badge.svg" />
-  </a>
-  <a href="https://github.com/minntayza">
-    <img alt="Developer Profile" src="https://img.shields.io/badge/developer-minntayza-blue.svg" />
-  </a>
-</div>
+### 🚀 About Me
 
-<br />
+I am a fourth-year student at the University of Information Technology (UIT) in Yangon, Myanmar, currently focusing on Machine Learning research, model training, and MLOps pipelines. 
 
-## What is Awesome CV?
-
-**Awesome CV** is a clean, semantic LaTeX template for a **CV (Curriculum Vitae)**, **Résumé**, or **Cover Letter**. This fork is maintained and adapted to highlight technical milestones, complex engineering projects, and research backgrounds in Artificial Intelligence and Machine Learning.
-
-
-## Featured Use Cases
-
-This template is configured to easily structure sections relevant to modern AI/ML development:
-* **Core Architectures:** Highlight specialized implementations like intelligent mental stress detection models or autonomous agent workflows.
-* **Technical Internships:** Gracefully format roles centered around model training, deployment pipelines, and MLOps engineering.
-* **Academic Milestones:** Built-in semantic environments to showcase University of Information Technology research, course achievements, and technical certifications.
-
-
-## Preview
-
-#### Résumé
-
-| Page. 1 | Page. 2 |
-|:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://github.com/minntayza)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://github.com/minntayza) |
-
-
-## Quick Start
-
-You can compile and build your CV directly via the command line or containerize the build process using Docker.
-
-#### Requirements
-
-A full TeX distribution is assumed (TeX Live is highly recommended). Alternatively, you can use Docker to bypass local dependencies completely.
-
-#### Usage
-
-At your terminal, execute:
+👇 Drop this in your terminal to see my developer card (or explore my repos below):
 
 ```bash
-xelatex minntayza-cv.tex
+npx minntayza
+
+const minnTayza = {
+  name: "Minn Tayza",
+  pronouns: ["he", "him"],
+  languages: ["Python", "JavaScript", "TypeScript", "C++"],
+  askMeAbout: [
+    "machine learning",
+    "MLOps pipelines",
+    "agentic workflows",
+    "fuzzy logic systems",
+    "full-stack development"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "CSS Modules"]
+    },
+
+    backend: {
+      python: ["FastAPI", "Flask"],
+      node: ["Node.js", "Express"]
+    },
+
+    automationAndTools: {
+      orchestration: ["n8n", "GitHub Actions"],
+      environments: ["VS Code", "GitHub Desktop"],
+      graphics: ["OpenGL"]
+    },
+
+    ai_ml: {
+      frameworks: ["Scikit-Learn", "PyTorch"],
+      generativeAI: ["LLM integration", "Google AI Studio", "Gemini Flash API"],
+      architectures: ["Adaptive Fuzzy Logic", "Autonomous Agent Pipelines"]
+    }
+  },
+
+  currentFocus: "Advancing MLOps skills, experimenting with agent pipelines, and mastering Japanese (JLPT N3) 🇯🇵",
+  funFact: "Most network architecture weights calculation bugs can be resolved by changing 0.7 to 0.6."
+};
+
+<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)" width="60"> <em><b>I love exploring new ideas in AI</b> so feel free to check out my open-source projects below! 😊</em>
+
+---
+<!--START_SECTION:waka-->
+📊 **My Top GitHub Repositories** 
+
+Here is a look at what I've been building lately on my dashboard:
+
+📊 This Week I Spent My Time On
+
+💬 Programming Languages: 
+Python                    18 hrs 40 mins     ████████████████░░░░░░░░░   58.40 % 
+JavaScript               8 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   25.60 % 
+TypeScript               3 hrs 20 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+C++                      1 hr 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+
+🔥 Editors: 
+VS Code                  30 mins            █████████████████████████   100.00 %
+
+Python                   12 repos           ████████████████░░░░░░░░░   46.15 % 
+JavaScript               8 repos            ██████████░░░░░░░░░░░░░░░   30.77 % 
+TypeScript               4 repos            █████░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Other                    2 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
