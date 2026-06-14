@@ -1,9 +1,11 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> မင်္ဂလာပါ (Mingalabar) 🙏🏻, I'm Minn Tayza! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> မင်္ဂလာပါ (Mingalabar) 🙏🏻, I'm Min Tayza! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![GitHub: minntayza](https://img.shields.io/badge/-minntayza-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/minntayza)](https://github.com/minntayza)
 ![GitHub followers](https://img.shields.io/github/followers/minntayza?label=Follow&style=social)
 [![Twitter](https://img.shields.io/badge/-minntayza-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/minntayza)
+
+---
 
 ### 🚀 About Me
 
@@ -22,8 +24,8 @@ npx minntayza
 ```
 
 ```javascript
-const minnTayza = {
-  name: "Minn Tayza",
+const minTayza = {
+  name: "Min Tayza",
   pronouns: ["he", "him"],
   languages: ["Python", "JavaScript", "TypeScript", "Java", "C#", "PHP", "C++"],
   askMeAbout: [
@@ -51,11 +53,11 @@ const minnTayza = {
     },
     automation: {
       orchestration: ["n8n", "GitHub Actions"],
-      tools: ["VS Code", "Git", "Lovable"]
+      tools: ["VS Code", "Git", "Lovable", "Claude Code"]
     },
     ai_ml: {
       frameworks: ["Scikit-Learn", "PyTorch", "scikit-fuzzy"],
-      llm: ["Gemini API", "Google AI Studio", "Gemini Flash"],
+      llm: ["Gemini API", "Google AI Studio", "Claude API", "OpenAI API"],
       nlp: ["TextBlob", "Sentiment Analysis"],
       embeddings: ["text-embedding-004", "Vector Search (IndexedDB)"],
       architectures: ["Adaptive Fuzzy Logic", "Multi-Agent Pipelines", "Semantic Memory"]
@@ -70,6 +72,9 @@ const minnTayza = {
 ---
 
 ## 🔥 Featured Projects
+
+### 📊 [DevStats — GitHub Portfolio Visualizer](https://github.com/minntayza/github_portfolio_manager)
+A web app that analyzes any GitHub profile with beautiful pie charts, bar charts, and AI-powered insights. Supports **bilingual (EN/MY)** UI, dark/light mode, and user-provided API keys for OpenAI / Claude / Gemini summaries. Built with Next.js, Tailwind CSS, Recharts, and the GitHub API. ⭐ **New!**
 
 ### 🧠 [Autonomous Agent Pipeline](https://github.com/minntayza/Autonomous-Agent-Pipeline)
 A 5-agent autonomous reasoning system (Planner → Researcher → Synthesizer → Critic → Formatter) powered by the **Gemini API** with embedded semantic memory, self-correction loops, and real-time streaming — all client-side in vanilla JS.
@@ -90,7 +95,7 @@ A multi-role (Patient / Doctor / Admin) online appointment booking system built 
 A bilingual (EN/MY) static marketing site for AI coding tours in Myanmar, built with **Astro 5** and Tailwind CSS. Zero client JS by default.
 
 ### ⚡ [Dawei Power Pulse](https://github.com/minntayza/dawei-power-pulse)
-Real-time power infrastructure monitoring dashboard built with **Lovable.dev** and TypeScript + React.
+Real-time power infrastructure monitoring dashboard built with TypeScript + React.
 
 ---
 
@@ -110,6 +115,8 @@ Real-time power infrastructure monitoring dashboard built with **Lovable.dev** a
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC9CFF?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -121,8 +128,10 @@ Real-time power infrastructure monitoring dashboard built with **Lovable.dev** a
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=minntayza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minntayza&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minntayza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minntayza&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minntayza&theme=radical&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -131,10 +140,23 @@ Real-time power infrastructure monitoring dashboard built with **Lovable.dev** a
 
 - 🧪 **MLOps pipelines** — experiment tracking, model serving, and automation
 - 🤖 **Agentic systems** — multi-agent reasoning with memory and self-correction
+- 🌏 **DevStats** — GitHub portfolio visualizer with bilingual (EN/MY) support
 - 🇯🇵 **Japanese** — working toward JLPT N3 proficiency
 - 🌏 **Bilingual tools** — apps that serve both English and Myanmar-speaking users
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love exploring new ideas in AI</b> — check out my repos and feel free to connect! 😊</em>
+
+---
+
+## 📊 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY_TITLE_START:-->
+<!--RECENT_ACTIVITY_TITLE_END-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
