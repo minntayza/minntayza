@@ -75,116 +75,121 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎤 Speech Emotion Recognition
+### [📄 Smart PDF Lecture Summarizer](https://github.com/minntayza/pdf_summarizer) ⭐ 9
 
-AI model that detects human emotions from voice using Deep Learning.
+Turn lecture PDFs into summary notes, key exam points, Q&A flashcards, and quizzes — powered by AI (Claude or Gemini). Built with Supabase + Edge Functions.
 
-**Tech**
-
-- Python
-- PyTorch
-- Librosa
-- MFCC
-- Mel Spectrogram
-- CNN
+**Tech:** HTML/CSS/JS · Supabase · Claude API · Gemini API · Vercel
 
 ---
 
-## 🩺 MedAI
+### [🛒 PulseCart](https://github.com/minntayza/PulseCart) ⭐ 2
 
-AI-powered health assessment application that predicts possible diseases from symptoms.
+Multi-agent commerce operations copilot — 5 AI agents collaborate in real-time to recommend products, analyze competitors, and power conversational shopping.
 
-**Features**
-
-- Disease Prediction
-- Symptom Analysis
-- PDF Report
-- Interactive Body Map
+**Tech:** Next.js 16 · FastAPI · Supabase · Anthropic API · Tailwind CSS
 
 ---
 
-## 🎓 University Registration System
+### [🤖 RAG Customer Support Chatbot](https://github.com/minntayza/rag-chatbot)
 
-Modern university registration platform.
+Enterprise-grade RAG chatbot built with FastAPI, Supabase pgvector, and LangChain — features streaming, RAGAS evaluation, and Prometheus metrics.
 
-**Tech**
-
-- Spring Boot
-- React
-- Supabase
-- PostgreSQL
-- JWT Authentication
+**Tech:** FastAPI · Supabase pgvector · LangChain · React · Docker · Redis
 
 ---
 
-## 🌱 Agriculture AI
+### [🎤 Speech Emotion Recognition](https://github.com/minntayza/Emotion-Detection)
 
-Computer Vision based agriculture solutions.
+AI model that detects human emotions from voice using Deep Learning (LSTM + CNN on RAVDESS dataset).
 
-Projects include
-
-- Leaf Nutrient Deficiency Detection
-- Crop Disease Detection
-- Smart Pest Detection
+**Tech:** Python · PyTorch · Librosa · MFCC · Mel Spectrogram · LSTM · CNN
 
 ---
 
-## 📊 Data Analysis Projects
+### [🩺 MedAI — Pneumonia Detection](https://github.com/minntayza/MedAI-Pneumonia-Detection)
 
-- Stack Overflow Developer Survey
-- Network Intrusion Detection
-- Coding Habit Prediction
+Deep learning system that detects pneumonia from chest X-ray images using CNN architectures.
+
+**Tech:** Python · TensorFlow · Keras · Deep Learning · Medical Imaging
 
 ---
 
-# 📈 GitHub Stats
+### [🧠 MedAI — Brain Tumor Classification](https://github.com/minntayza/MedAI-Brain-Tumor-Classification)
+
+Classifies brain tumors from MRI scans using transfer learning on pre-trained models.
+
+**Tech:** Python · TensorFlow · Transfer Learning · MRI Image Processing
+
+---
+
+### [🧘 Stress Tracker](https://github.com/minntayza/stress_tracker) ⭐ 1
+
+Lightweight, privacy-focused stress assessment tool using fuzzy logic and sentiment analysis.
+
+**Tech:** Python · Flask · scikit-fuzzy · SQLite · TextBlob
+
+---
+
+### [🌱 Agriculture Crop Recommendation](https://github.com/minntayza/Agriculture-Crop-Recommendation)
+
+ML-powered system that recommends optimal crops based on soil nutrients and climate conditions.
+
+**Tech:** Python · Scikit-Learn · Pandas · Data Analysis
+
+---
+
+### [📊 Customer Segmentation](https://github.com/minntayza/Data-Analysis-Customer-Segmentation)
+
+Customer segmentation analysis using K-Means clustering on retail transaction data.
+
+**Tech:** Python · Scikit-Learn · Pandas · Matplotlib · Clustering
+
+---
+
+### [🎓 University Registration System](https://github.com/minntayza/University-Registration-System)
+
+Modern university registration platform built with Spring Boot and React.
+
+**Tech:** Spring Boot · React · Supabase · PostgreSQL · JWT Authentication
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minntayza&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minntayza&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minntayza&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minntayza&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minntayza&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minntayza&theme=tokyonight" />
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=minntayza&theme=algolia&margin-w=10&margin-h=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=minntayza&theme=algolia&margin-w=10&margin-h=10&row=2&column=4" />
 
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-- Artificial Intelligence
-- Deep Learning
-- Computer Vision
-- NLP
-- MLOps
-- Docker
-- Kubernetes
-- Cloud Computing
-
----
-
-# 🎯 Goals for 2026
+## 🎯 2026 Goals
 
 ✅ Build production-ready AI applications
 
@@ -192,20 +197,21 @@ Projects include
 
 ✅ Learn MLOps
 
-✅ Contribute to Open Source
+🔄 Contribute to Open Source
 
-✅ Secure an AI/ML Software Engineer role
+🔄 Secure an AI/ML Software Engineer role
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<p>
-
+<p align="left">
 <a href="https://github.com/minntayza">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
+<a href="https://www.linkedin.com/in/min-tay-za-065a0b285/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
