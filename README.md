@@ -94,22 +94,6 @@ Multi-agent commerce operations copilot — 5 AI agents collaborate in real-time
 
 ---
 
-### [🤖 RAG Customer Support Chatbot](https://github.com/minntayza/rag-chatbot)
-
-Enterprise-grade RAG chatbot built with FastAPI, Supabase pgvector, and LangChain — features streaming, RAGAS evaluation, and Prometheus metrics.
-
-**Tech:** TypeScript · React · FastAPI · Supabase pgvector · LangChain · Docker · Redis
-
----
-
-### [🎤 Speech Emotion Recognition](https://github.com/minntayza/Emotion-Detection)
-
-AI model that detects human emotions from voice using Deep Learning (LSTM + CNN on RAVDESS dataset).
-
-**Tech:** Python · PyTorch · Librosa · MFCC · Mel Spectrogram · LSTM · CNN
-
----
-
 ### [🩺 Ai-powered Inventory Security System](https://github.com/minntayza/Ai-powered-Inventory-Security-System)
 
 Real-time warehouse monitoring system using AI and IoT — tracks inventory via camera, records items automatically, and prevents unauthorized removals.
