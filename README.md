@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Fourth Year Computer Science Student
+🎓 Computer Science Student
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
 
