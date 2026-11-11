@@ -134,6 +134,13 @@ Lightweight, privacy-focused stress assessment tool using fuzzy logic and sentim
 
 ---
 
+## ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
