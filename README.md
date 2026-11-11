@@ -137,6 +137,9 @@ Lightweight, privacy-focused stress assessment tool using fuzzy logic and sentim
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+
+No coding activity recorded in the last seven days.
+
 <!--END_SECTION:waka-->
 
 ---
