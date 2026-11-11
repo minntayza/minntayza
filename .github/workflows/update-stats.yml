@@ -13,12 +13,26 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Check WakaTime OAuth setup
+        id: wakatime
+        env:
+          WAKATIME_OAUTH_TOKEN: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
+        shell: bash
+        run: |
+          if [ -n "$WAKATIME_OAUTH_TOKEN" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Coding stats skipped: add WAKATIME_OAUTH_TOKEN in repository Actions secrets."
+            echo "WakaTime now requires a personal OAuth token to read statistics. Create one at https://wakatime.com/oauth and save it as WAKATIME_OAUTH_TOKEN in this repository's Actions secrets. Plugin API keys cannot read statistics." >> "$GITHUB_STEP_SUMMARY"
+          fi
       - uses: anmol098/waka-readme-stats@master
+        if: steps.wakatime.outputs.ready == 'true'
         env:
           # The repository token has no user identity; select the profile explicitly.
           INPUT_GH_USER: ${{ github.repository_owner }}
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           GH_TOKEN: ${{ github.token }}
           PUSH_TOKEN: ${{ github.token }}
           SHOW_PROFILE_VIEWS: "False"
